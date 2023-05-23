@@ -24,9 +24,12 @@ This dataset includes a variety of global and US-specific healthcare metrics inc
 | Social Determinants of Health (Codebook) - USA                    | [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)                                                      |
 
 
-## Snowflake Data Exchange
+## Data Exchanges
 
-This dataset is currently refershed and available on [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
+This dataset is currently refershed and available at the following locations:
+  - [Amazon Data Exchange](https://aws.amazon.com/marketplace/seller-profile?id=a8a86da2-b2d1-4fae-992d-03494e90590b)
+  - [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
+  - [Databricks Marketplace](https://www.databricks.com/product/marketplace)
 
 ## About Rearc
 
