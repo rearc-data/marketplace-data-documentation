@@ -2,8 +2,8 @@
 
 This dataset contains normalized names and drug vocabularies which help coordinate messaging between various pharmacy management and drug interaction programs. By providing links between these vocabularies, RxNorm can mediate messages between systems not using the same software and vocabulary.
 
-[Official Documentation](https://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html)
-[Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
+- [Official Documentation](https://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html)
+- [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
 
 ## Aggregated - Ready to help you with your usecase!
 
