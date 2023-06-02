@@ -20,7 +20,7 @@ This dataset contains normalized names and drug vocabularies which help coordina
 
 ## Data sets
 
-| Name                               | Source                                                           | Official Documentation                                                                   |
+| Name                               | Source                                                           | Documentation                                                                            |
 |:-----------------------------------|:-----------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
 | RXNORM_CONCEPTS_USA                | [National Library of Medicine (NLM)](https://www.nlm.nih.gov/)   | [Data Dictionary](https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#conso)  |
 | RXNORM_ATTRIBUTES_USA              | [National Library of Medicine (NLM)](https://www.nlm.nih.gov/)   | [Data Dictionary](https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#sat)    |
