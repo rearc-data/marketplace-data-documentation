@@ -7,16 +7,16 @@ This dataset contains normalized names and drug vocabularies which help coordina
 
 ## Aggregated - Ready to help you with your usecase!
 
-- Healthcare: Standardizing and harmonizing drug information across various healthcare systems and electronic health records (EHRs).
-- Public Health: Assisting public health agencies in monitoring and analyzing drug-related data for surveillance, pharmacovigilance, and public health initiatives.
-- Pharmacy Management: Facilitating communication and interoperability between different pharmacy management software systems.
-- Drug Interactions: Identifying and preventing potential drug-drug interactions by aligning drug terminologies and providing consistent drug information.
-- Research and Clinical Trials: Enhancing drug-related research and clinical trial activities by enabling efficient data exchange and analysis across different research databases and systems.
-- Clinical Decision Support: Supporting clinical decision-making by providing accurate and consistent drug data for computerized physician order entry (CPOE) systems and clinical decision support systems (CDSS).
-- Telemedicine: Enabling seamless integration of drug information across telemedicine platforms and remote healthcare services.
-- Electronic Prescription: Enabling accurate electronic prescribing by aligning drug terminologies and facilitating electronic transmission of prescriptions.
-- Health Information Exchange (HIE): Facilitating the exchange of drug-related information among different healthcare organizations and HIE networks.
-- Drug Supply Chain Management: Streamlining drug inventory management, procurement, and supply chain operations by providing standardized drug information for wholesalers, manufacturers, and distributors.
+- Healthcare: Standardize and harmonize drug information across various healthcare systems and electronic health records (EHRs).
+- Public Health: Assist public health agencies in monitoring and analyzing drug-related data for surveillance, pharmacovigilance, and public health initiatives.
+- Pharmacy Management: Faciliate communication and interoperability between different pharmacy management software systems.
+- Drug Interactions: Identify and prevent potential drug-drug interactions by aligning drug terminologies and providing consistent drug information.
+- Research and Clinical Trials: Enhance drug-related research and clinical trial activities by enabling efficient data exchange and analysis across different research databases and systems.
+- Clinical Decision Support: Support clinical decision-making by providing accurate and consistent drug data for computerized physician order entry (CPOE) systems and clinical decision support systems (CDSS).
+- Telemedicine: Enable seamless integration of drug information across telemedicine platforms and remote healthcare services.
+- Electronic Prescription: Enable accurate electronic prescribing by aligning drug terminologies and facilitating electronic transmission of prescriptions.
+- Health Information Exchange (HIE): Facilitate the exchange of drug-related information among different healthcare organizations and HIE networks.
+- Drug Supply Chain Management: Streamline drug inventory management, procurement, and supply chain operations by providing standardized drug information for wholesalers, manufacturers, and distributors.
 
 ## Data sets
 
