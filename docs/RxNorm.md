@@ -33,6 +33,7 @@ This dataset is currently refreshed and available at the following locations:
   - [Amazon Data Exchange](https://aws.amazon.com/marketplace/seller-profile?id=a8a86da2-b2d1-4fae-992d-03494e90590b)
   - [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
   - [Databricks Marketplace](https://www.databricks.com/product/marketplace)
+  - [Google Analytics Hub](https://cloud.google.com/analytics-hub)
 
 ## About Rearc
 
