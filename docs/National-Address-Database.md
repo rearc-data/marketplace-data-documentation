@@ -13,16 +13,16 @@ This listing contains datasets related to the National Address Database provided
 
 ## Aggregated - Ready to help you with your usecase!
 
-- Geospatial Analytics: Power location-based insights and decision-making for businesses and government agencies using comprehensive address data.
-- Emergency Services: Improve response times and efficiency for emergency service providers by quickly locating accurate addresses.
-- Urban Planning: Aid in urban development, transportation optimization, and infrastructure planning with detailed address information.
-- Mail and Package Delivery: Facilitate timely and accurate mail and package deliveries through reliable address data.
-- Business and Market Intelligence: Empower businesses with valuable location-based insights and market research.
-- Navigation and Mapping Services: Enhance navigation applications with precise address information for users.
-- Government Services: Streamline government operations like voter registration, tax collection, and social services with a central address reference.
-- Infrastructure Development: Support infrastructure projects with detailed address data for utilities, telecommunications, and transportation.
-- Real Estate and Property Management: Assist real estate and property management with market research and tenant management using NAD's comprehensive address data.
-- IoT Applications: Enable smart city initiatives and optimize traffic flow through NAD integration with IoT applications.
+- **Geospatial Analytics**: Power location-based insights and decision-making for businesses and government agencies using comprehensive address data.
+- **Emergency Services**: Improve response times and efficiency for emergency service providers by quickly locating accurate addresses.
+- **Urban Planning**: Aid in urban development, transportation optimization, and infrastructure planning with detailed address information.
+- **Mail and Package Delivery**: Facilitate timely and accurate mail and package deliveries through reliable address data.
+- **Business and Market Intelligence**: Empower businesses with valuable location-based insights and market research.
+- **Navigation and Mapping Services**: Enhance navigation applications with precise address information for users.
+- **Government Services**: Streamline government operations like voter registration, tax collection, and social services with a central address reference.
+- **Infrastructure Development**: Support infrastructure projects with detailed address data for utilities, telecommunications, and transportation.
+- **Real Estate and Property Management**: Assist real estate and property management with market research and tenant management using NAD's comprehensive address data.
+- **IoT Applications**: Enable smart city initiatives and optimize traffic flow through NAD integration with IoT applications.
 
 ## Data sets
 
