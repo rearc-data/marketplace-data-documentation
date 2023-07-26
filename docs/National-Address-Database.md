@@ -28,7 +28,7 @@ This listing contains datasets related to the National Address Database provided
 
 | Name                               | Source                                                           | Documentation                                                                            |
 |:-----------------------------------|:-----------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| NATIONAL_ADDRESS_DATABASE                | [U.S. Department of Transportation (USDOT)]([https://www.nlm.nih.gov/](https://www.transportation.gov/gis/national-address-database))   | [Documentation]([https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#conso](https://www.transportation.gov/gis/national-address-database))  |
+| NATIONAL_ADDRESS_DATABASE                | [U.S. Department of Transportation (USDOT)](https://www.transportation.gov/gis/national-address-database))   | [Documentation](https://www.transportation.gov/gis/national-address-database)  |
 
 
 ## Data Exchanges
