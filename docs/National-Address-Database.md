@@ -28,13 +28,13 @@ This listing contains datasets related to the National Address Database provided
 
 | Name                               | Source                                                           | Documentation                                                                            |
 |:-----------------------------------|:-----------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| NATIONAL_ADDRESS_DATABASE                | [U.S. Department of Transportation (USDOT)](https://www.transportation.gov/gis/national-address-database))   | [Documentation](https://www.transportation.gov/gis/national-address-database)  |
+| NATIONAL_ADDRESS_DATABASE                | [U.S. Department of Transportation (USDOT)](https://www.transportation.gov/gis/national-address-database)   | [Documentation](https://www.transportation.gov/gis/national-address-database)  |
 
 
 ## Data Exchanges
 
 This dataset is currently refreshed and available at the following locations:
-  - [Amazon Data Exchange]([https://aws.amazon.com/marketplace/seller-profile?id=a8a86da2-b2d1-4fae-992d-03494e90590b](https://us-east-1.console.aws.amazon.com/dataexchange/home?region=us-east-1#/products/prodview-c5zythln76ozs))
+  - [Amazon Data Exchange](https://us-east-1.console.aws.amazon.com/dataexchange/home?region=us-east-1#/products/prodview-c5zythln76ozs)
   - [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
   - [Databricks Marketplace](https://www.databricks.com/product/marketplace)
   - [Google Analytics Hub](https://cloud.google.com/analytics-hub)
