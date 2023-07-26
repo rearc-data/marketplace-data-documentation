@@ -2,7 +2,7 @@
 
 This listing contains datasets related to the National Address Database provided by the US Department of Transportation (USDOT).
 
-- [Official Documentation]([https://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html](https://www.transportation.gov/gis/national-address-database))
+- [Official Documentation](https://www.transportation.gov/gis/national-address-database)
 - [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
 
 # What is the National Address Database?
