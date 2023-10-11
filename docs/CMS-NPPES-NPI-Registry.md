@@ -1,14 +1,27 @@
 # CMS - National Provider Identifier (NPI) registry
 
-This listing provides access to the National Provider Identifier (NPI) registry, which is maintained by the National
-Plan and Provider Enumeration System (NPPES). The NPI registry contains comprehensive information about healthcare
-providers, including their unique identification numbers, contact details, and other relevant data. This dataset is
-maintained and released by the Centers for Medicare & Medicaid Services (CMS).
 
-Explanations of codes are available from
-CMS: https://www.cms.gov/regulations-and-guidance/administrative-simplification/nationalprovidentstand/downloads/data_dissemination_file-code_values.pdf
+The National Provider Identifier (NPI) registry is maintained by the National Plan and Provider Enumeration System (NPPES).
 
-All tables are updated monthly. A common `npi` ID field connects all the tables.
+Since 2008, all healthcare providers have been required to register with NPI. This dataset contains all FOIA-releasable information from those registrations.
+
+This includes data such as:
+
+- **Provider Details**: Comprehensive profiles, legal identities, contact information, email addresses, website URLs, alternate physical addresses, and alternate names.
+- **Taxonomy and Licensing**: Primary taxonomy codes (medical specialization), licensing numbers, and associated states.
+- **Authorized Officials**: Key officials within healthcare organizations, including their titles and contact information.
+- **Parent-Child Relationships**: Connections between healthcare providers and parent organizations, including legal business names and TINs.
+
+This dataset includes the following tables:
+
+- **NPI_DATA_MONTHLY**: This is the bulk of the NPI registry, containing a wide variety of data about each NPI-registered healthcare provider.
+- **NPI_PRIMARY_LOCATION_MONTHLY**: Stores information about a practice's additional location, if applicable.
+- **NPI_ENDPOINT_MONTHLY**: Provides various ways a practice can be found, such as email addresses or URLs.
+- **NPI_OTHERNAME_MONTHLY**: Provides alternative names a practice goes by.
+
+A common `npi` ID field connects all the tables.
+
+Explanations of codes are available from CMS: https://www.cms.gov/regulations-and-guidance/administrative-simplification/nationalprovidentstand/downloads/data_dissemination_file-code_values.pdf
 
 - [Official Documentation](https://www.cms.gov/medicare/regulations-guidance/administrative-simplification)
 - [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
