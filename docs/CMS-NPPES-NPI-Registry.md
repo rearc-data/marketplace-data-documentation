@@ -23,8 +23,10 @@ Additional Info:
 
 - A common `npi` ID field connects all the tables.
 - Explanations of codes are available from CMS: https://www.cms.gov/regulations-and-guidance/administrative-simplification/nationalprovidentstand/downloads/data_dissemination_file-code_values.pdf
-  - [Official Documentation](https://www.cms.gov/medicare/regulations-guidance/administrative-simplification)
-  - [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
+
+[Official Documentation](https://www.cms.gov/medicare/regulations-guidance/administrative-simplification)
+
+[Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
 
 # What is the NPI Registry?
 
