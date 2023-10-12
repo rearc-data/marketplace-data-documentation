@@ -5,26 +5,26 @@ The National Provider Identifier (NPI) registry is maintained by the National Pl
 
 Since 2008, all healthcare providers have been required to register with NPI. This dataset contains all FOIA-releasable information from those registrations.
 
-This includes data such as:
+Key Attributes:
 
 - **Provider Details**: Comprehensive profiles, legal identities, contact information, email addresses, website URLs, alternate physical addresses, and alternate names.
 - **Taxonomy and Licensing**: Primary taxonomy codes (medical specialization), licensing numbers, and associated states.
 - **Authorized Officials**: Key officials within healthcare organizations, including their titles and contact information.
 - **Parent-Child Relationships**: Connections between healthcare providers and parent organizations, including legal business names and TINs.
 
-This dataset includes the following tables:
+Included Datasets:
 
 - **NPI_DATA_MONTHLY**: This is the bulk of the NPI registry, containing a wide variety of data about each NPI-registered healthcare provider.
 - **NPI_PRIMARY_LOCATION_MONTHLY**: Stores information about a practice's additional location, if applicable.
 - **NPI_ENDPOINT_MONTHLY**: Provides various ways a practice can be found, such as email addresses or URLs.
 - **NPI_OTHERNAME_MONTHLY**: Provides alternative names a practice goes by.
 
-A common `npi` ID field connects all the tables.
+Additional Info:
 
-Explanations of codes are available from CMS: https://www.cms.gov/regulations-and-guidance/administrative-simplification/nationalprovidentstand/downloads/data_dissemination_file-code_values.pdf
-
-- [Official Documentation](https://www.cms.gov/medicare/regulations-guidance/administrative-simplification)
-- [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
+- A common `npi` ID field connects all the tables.
+- Explanations of codes are available from CMS: https://www.cms.gov/regulations-and-guidance/administrative-simplification/nationalprovidentstand/downloads/data_dissemination_file-code_values.pdf
+  - [Official Documentation](https://www.cms.gov/medicare/regulations-guidance/administrative-simplification)
+  - [Terms of Service](https://rearc-data-public-assets.s3.amazonaws.com/Rearc_Data_DSA.pdf)
 
 # What is the NPI Registry?
 
