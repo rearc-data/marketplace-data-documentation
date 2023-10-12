@@ -7,8 +7,7 @@ information about studies registered in ClinicalTrials.gov.
 Key Attributes:
 
 - **Comprehensive Clinical Trial Data**: This database contains data from a multitude of clinical trials, offering insights into diverse aspects of medical research.
-- **Multi-Faceted Categories**: With tables covering baseline information, conditions, interventions, outcomes, and more, this dataset provides a holistic view of clinical research..
-- **Demographic Insights**: Access participant demographics, including age, gender, and location, crucial for understanding trial populations.
+- **Multi-Faceted Categories**: With tables covering baseline information, conditions, interventions, outcomes, and more, this dataset provides a holistic view of clinical research.
 - **Study Outcomes**: Explore the results and analyses of clinical trials, gaining valuable insights into the effectiveness of interventions.
 - **Interventions and Conditions**: Investigate the various interventions used and the medical conditions addressed in clinical trials.
 - **Study References**: Access references and sources linked to each study, supporting further research and validation.
