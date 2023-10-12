@@ -96,7 +96,8 @@ This dataset is currently refreshed and available at the following locations:
 
 - [Amazon Data Exchange](https://us-east-1.console.aws.amazon.com/dataexchange/home?region=us-east-1#/products/prodview-6hrha5c7pe3am)
 - [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
-- [Databricks Marketplace](https://www.databricks.com/product/marketplace)
+
+[//]: # (- [Databricks Marketplace]&#40;https://www.databricks.com/product/marketplace&#41;)
 
 ## About Rearc
 
