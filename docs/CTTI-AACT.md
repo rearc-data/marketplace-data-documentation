@@ -13,7 +13,7 @@ Key Attributes:
 - **Study References**: Access references and sources linked to each study, supporting further research and validation.
 - **Research Trends**: Analyze study characteristics tagged with specific medical fields like oncology, cardiovascular, and mental health.
 
-Comprehensive table descriptions, data dictionaries, and more can be found at the [AACT CTTI Website](https://aact.ctti-clinicaltrials.org/learn_more)
+Comprehensive table descriptions, data dictionaries, and more can be found at the [AACT CTTI Website](https://aact.ctti-clinicaltrials.org/learn_more).
 
 [Official Documentation](https://aact.ctti-clinicaltrials.org/learn_more)
 
