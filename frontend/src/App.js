@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import DocList from './components/DocList';
-import DocViewer from './components/DocViewer';
+import DocList from './DocList';
+import DocViewer from './DocViewer';
 
 function App() {
   return (
