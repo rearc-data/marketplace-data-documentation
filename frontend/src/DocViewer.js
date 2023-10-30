@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import gfm from 'remark-gfm';
 import { useParams } from 'react-router-dom';
 
-const docContext = require.context('../docs', true, /\.md$/);
+const docContext = require.context('./docs', true, /\.md$/);
 
 function DocViewer() {
   const { docName } = useParams();

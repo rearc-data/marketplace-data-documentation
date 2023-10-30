@@ -1,15 +1,15 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import DocList from './DocList';
 import DocViewer from './DocViewer';
 
 function App() {
   return (
     <Router>
-      <Switch>
-        <Route path="/doc/:docName" component={DocViewer} />
-        <Route path="/" component={DocList} />
-      </Switch>
+      <Routes>
+        <Route path="/doc/:docName" element={<DocViewer />} />
+        <Route path="/" element={<DocList />} />
+      </Routes>
     </Router>
   );
 }

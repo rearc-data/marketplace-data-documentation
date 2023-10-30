@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 // Dynamically import all markdown files
-const docContext = require.context('../docs', true, /\.md$/);
+const docContext = require.context('./docs', true, /\.md$/);
 
 function DocList() {
   const docNames = docContext.keys().map((path) => path.slice(2));
