@@ -13,6 +13,7 @@ function DocViewer() {
     let markdownContent2;
     try {
       markdownContent2 = require(`./docs/${docName}`).default;
+      console.log(markdownContent2)
     } catch (err) {
       console.error("Error importing the markdown file:", err);
     }
