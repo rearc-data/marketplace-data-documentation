@@ -1,0 +1,16 @@
+.docItem {
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px auto;
+    background-color: blanchedalmond;
+}
+
+.docItemTitle {
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}

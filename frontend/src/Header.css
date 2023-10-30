@@ -1,0 +1,11 @@
+header {
+    width: 100%;
+    background: url("./assets/rearc_pattern_darkblue.jpg");
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+
+logo {
+    height: vh10;
+}

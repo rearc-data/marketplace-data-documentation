@@ -1,22 +1,22 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import DocItem from './DocItem';
 
-// Dynamically import all markdown files
 const docContext = require.context('./docs', true, /\.md$/);
 
-function DocList() {
-  const docNames = docContext.keys().map((path) => path.slice(2));
+const docs = docContext.keys().map(fileName => {
+  return {
+    name: fileName.substr(2).replace(/\.md$/, ''),
+    content: docContext(fileName)
+  };
+});
 
+function DocList() {
   return (
     <div>
-      <h1>Documents Index</h1>
-      <ul>
-        {docNames.map((name) => (
-          <li key={name}>
-            <Link to={`/doc/${name}`}>{name}</Link>
-          </li>
-        ))}
-      </ul>
+      <h2>Available Datasets</h2>
+      {docs.map(doc => (
+        <DocItem key={doc.name} docName={doc.name} docContent={doc.content} />
+      ))}
     </div>
   );
 }
