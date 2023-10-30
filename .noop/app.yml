@@ -9,7 +9,7 @@ components:
         - copy: frontend
           destination: /usr/src/app/
         - copy: docs/**
-          destination: /usr/src/app/frontend/src/docs/
+          destination: /usr/src/app/
         - directory: /usr/src/app/frontend
         - run: npm install
         - run: pwd
