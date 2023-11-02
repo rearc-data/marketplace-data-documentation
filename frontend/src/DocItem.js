@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import gfm from 'remark-gfm';
 import './DocItem.css';
 
-const DocItem = ({ docName, docContent }) => {
+const DocItem = ({ docName, docContent, path }) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const [markdownContent, setMarkdownContent] = useState(null);
 
@@ -41,10 +41,14 @@ const DocItem = ({ docName, docContent }) => {
           {isExpanded ? '-' : '+'}
         </span>
       </div>
-
       {isExpanded && markdownContent && (
         <div className="docItemContent">
           <ReactMarkdown remarkPlugins={[gfm]} children={markdownContent} />
+          {path && Object.keys(path).map(subName => (
+            path[subName].file 
+            ? <DocItem key={subName} name={subName} path={path[subName]} />
+            : null
+          ))}
         </div>
       )}
     </div>

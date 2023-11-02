@@ -5,7 +5,13 @@ function Header() {
     return (
         <header>
             <div className="logo">
-                <img src="assets/logo-dark.png"/>
+                <a href="https://rearc.io">
+                    <img src="assets/logo-dark.png" alt="Rearc Logo"/>
+                </a>
+                <a href="/" className="title">Data Dictionary</a>
+            </div>
+            <div className="contact">
+                <a href="https://www.rearc.io/contact-us/" className="contactButton">Contact Us</a>
             </div>
         </header>
     );
