@@ -33,6 +33,8 @@ _Where can I find what I'm looking for?_
 
 ## Additional Information
 
+_What else do I need to know to use the product?_
+
 Include details that are essential for users to work with the data product effectively. This may include join keys, external data dictionaries, or links to external documentation.
 
 - **Join Keys**: [Explanation of common identifiers or keys for linking tables, if applicable]
@@ -42,7 +44,9 @@ Include details that are essential for users to work with the data product effec
 
 ## Sources
 
-Explicitly mention the sources of the data used in this product, especially if not covered in the General Information section. This adds transparency and trust for customers.
+_Where did it come from?_
+
+Explicit callouts to sources used in this product (as Snowflake asks for this.)
 
 - [Source Name 1]: Description of data source 1.
 - [Source Name 2]: Description of data source 2.
@@ -52,10 +56,9 @@ Explicitly mention the sources of the data used in this product, especially if n
 
 This dataset is currently refreshed and available at the following locations:
 
-- [Amazon Data Exchange](https://us-east-1.console.aws.amazon.com/dataexchange/home?region=us-east-1#/products/prodview-6hrha5c7pe3am)
-- [Snowflake Data Exchange](https://www.snowflake.com/datasets/rearc/)
-
-[//]: # (- [Databricks Marketplace]&#40;https://www.databricks.com/product/marketplace&#41;)
+- [Amazon Data Exchange](Link to ADX Listing if applicable)
+- [Snowflake Data Exchange](Link to Snowflake Listing if applicable)
+- [Databricks Marketplace](Link to Databricks Listing if applicable)
 
 ## About Rearc
 
