@@ -37,34 +37,37 @@ available:
 
 ## Tables
 
-| Name                                         | Source                    | Description                                                                                 |
-|:---------------------------------------------|:--------------------------|:--------------------------------------------------------------------------------------------|
-| `FLU_USA_HOSP_RATE_WEEKLY_CDC`               | CDC                       | USA - Weekly Flu-related hospitalization rates, broken down by age, sex, and race           |
-| `FLU_USA_NOVEL_CASECOUNTS_CDC`               | CDC                       | USA - Seasonal counts of various Flu subtypes                                               |
-| `FLU_USA_NOVEL_CHARACTERISTICS_CDC`          | CDC                       | USA - Seasonal Cause and demographic breakdown of cause of Flu infections                   |
-| `FLU_USA_NOVEL_MAP_CDC`                      | CDC                       | USA - Seasonal counts of various Flu subtypes, broken down by state                         |
-| `FLU_AUSTRALIA_TESTS_BIWEEKLY_NNDSS`         | NNDSS                     | Australia - Biweekly provincial and national Flu counts; includes basic stats               |
-| `FLU_CANADA_TESTS_WEEKLY`                    | CIRID                     | Canada - Weekly Flu case counts, broken down by subtype                                     |
-| `FLU_DENMARK_ILI_WEEKLY_SSI`                 | SSI                       | Denmark - Weekly percent of ILI tests that came back positive                               |
-| `FLU_DENMARK_TESTS_HOSP_DEATHS_WEEKLY_SSI`   | SSI                       | Denmark - Weekly hospitalization counts and rates, broken down by age, sex, and region      |
-| `FLU_ECDC_ACTIVITY_DATAGRID`                 | European CDC              | Europe / Global - Weekly Flu intensity and dominant strains by region                       |
-| `FLU_EU_ACTIVITY_MAP_WEEKLY_ECDC`            | European CDC              | Europe / Global - Weekly Flu intensity and dominant strains by region, for WHO map layout   |
-| `FLU_ESTONIA_TESTS_AND_CASES_ILI_WEEKLY`     | Terviseamet               | Estonia - Weekly Flu counts, broken down by type; includes ILI and UHVN                     |
-| `FLU_GERMANY_ILI_WEEKLY_GRIPPEWEB`           | RKI                       | Germany - Weekly ILI tests and positivity counts, from GrippeWeb                            |
-| `FLU_GERMANY_TESTS_WEEKLY_RKI`               | RKI                       | Germany - Weekly Flu subtype counts, from RKI AGI reports                                   |
-| `FLU_GLOBAL_TESTS_WEEKLY_WHO_FLUNET`         | WHO                       | Global - Weekly lab-identified Flu and other ILI counts broken down by country              |
-| `FLU_PANAMA_CASES_WEEKLY_MINSA`              | Panama Ministry of Health | Panama - Weekly cases and rates of Flu                                                      |
-| `FLU_PANAMA_TESTS_WEEKLY_MINSA`              | Panama Ministry of Health | Panama - Weekly lab-identified Flu subtype counts                                           |
-| `FLU_SPAIN_TESTS_WEEKLY_SVGE`                | SVGE                      | Spain - Weekly lab-confirmed Flu counts                                                     |
-| `FLU_TAIWAN_CASES_ILI_VISITS_NHI`            | NIDSS                     | Taiwan - Weekly ILI case counts by region                                                   |
-| `FLU_TAIWAN_CASES_ILI_VISITS_PCT_WEEKLY_NHI` | NIDSS                     | Taiwan - Weekly rates of how many outpatients are for ILI diseases, by region               |
-| `FLU_TAIWAN_TESTS_WEEKLY_LARS`               | NIDSS                     | Taiwan - Weekly Flu subtype counts                                                          |
-| `FLU_UK_ARI_WEEKLY_NHS`                      | UK Health Security Agency | UK - Weekly ARI diagnoses and outbreaks broken down by social context                       |
-| `FLU_UK_HOSP_BY_AGEGRP_WEEKLY_NHS`           | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by age                                   |
-| `FLU_UK_HOSP_BY_REGION_WEEKLY_NHS`           | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by region                                |
-| `FLU_UK_HOSP_BY_TYPE_WEEKLY_NHS`             | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by subtype                               |
-| `FLU_UK_HOSP_OVERALL_WEEKLY_NHS`             | UK Health Security Agency | UK - Weekly Flu hospitalization rates                                                       |
-| `FLU_UK_TESTS_WEEKLY_NHS_DATAMARTFLU`        | UK Health Security Agency | UK - Weekly lab-confirmed Flu cases, broken down by subtype                                 |
+| Name                                         | Source                    | Description                                                                               |
+|:---------------------------------------------|:--------------------------|:------------------------------------------------------------------------------------------|
+| `FLU_USA_HOSP_RATE_WEEKLY_CDC`               | CDC                       | USA - Weekly Flu-related hospitalization rates, broken down by age, sex, and race         |
+| `FLU_USA_NOVEL_CASECOUNTS_CDC`               | CDC                       | USA - Seasonal counts of various Flu subtypes                                             |
+| `FLU_USA_NOVEL_CHARACTERISTICS_CDC`          | CDC                       | USA - Seasonal Cause and demographic breakdown of cause of Flu infections                 |
+| `FLU_USA_NOVEL_MAP_CDC`                      | CDC                       | USA - Seasonal counts of various Flu subtypes, broken down by state                       |
+| `FLU_USA_ILI_VISITS_WEEKLY_CDC`              | CDC                       | USA - Weekly counts of ILI diagnoses, broken down by age and region                       |
+| `FLU_USA_TESTS_CLINICAL_LABS_WEEKLY_CDC`     | CDC                       | USA - Weekly counts of Flu clinical lab tests, broken down by subtype and region          |
+| `FLU_USA_TESTS_PH_LABS_WEEKLY_CDC`           | CDC                       | USA - Weekly counts of Flu public health lab tests, broken down by subtype and region     |
+| `FLU_AUSTRALIA_TESTS_BIWEEKLY_NNDSS`         | NNDSS                     | Australia - Biweekly provincial and national Flu counts; includes basic stats             |
+| `FLU_CANADA_TESTS_WEEKLY`                    | CIRID                     | Canada - Weekly Flu case counts, broken down by subtype                                   |
+| `FLU_DENMARK_ILI_WEEKLY_SSI`                 | SSI                       | Denmark - Weekly percent of ILI tests that came back positive                             |
+| `FLU_DENMARK_TESTS_HOSP_DEATHS_WEEKLY_SSI`   | SSI                       | Denmark - Weekly hospitalization counts and rates, broken down by age, sex, and region    |
+| `FLU_ECDC_ACTIVITY_DATAGRID`                 | European CDC              | Europe / Global - Weekly Flu intensity and dominant strains by region                     |
+| `FLU_EU_ACTIVITY_MAP_WEEKLY_ECDC`            | European CDC              | Europe / Global - Weekly Flu intensity and dominant strains by region, for WHO map layout |
+| `FLU_ESTONIA_TESTS_AND_CASES_ILI_WEEKLY`     | Terviseamet               | Estonia - Weekly Flu counts, broken down by type; includes ILI and UHVN                   |
+| `FLU_GERMANY_ILI_WEEKLY_GRIPPEWEB`           | RKI                       | Germany - Weekly ILI tests and positivity counts, from GrippeWeb                          |
+| `FLU_GERMANY_TESTS_WEEKLY_RKI`               | RKI                       | Germany - Weekly Flu subtype counts, from RKI AGI reports                                 |
+| `FLU_GLOBAL_TESTS_WEEKLY_WHO_FLUNET`         | WHO                       | Global - Weekly lab-identified Flu and other ILI counts broken down by country            |
+| `FLU_PANAMA_CASES_WEEKLY_MINSA`              | Panama Ministry of Health | Panama - Weekly cases and rates of Flu                                                    |
+| `FLU_PANAMA_TESTS_WEEKLY_MINSA`              | Panama Ministry of Health | Panama - Weekly lab-identified Flu subtype counts                                         |
+| `FLU_SPAIN_TESTS_WEEKLY_SVGE`                | SVGE                      | Spain - Weekly lab-confirmed Flu counts                                                   |
+| `FLU_TAIWAN_CASES_ILI_VISITS_NHI`            | NIDSS                     | Taiwan - Weekly ILI case counts by region                                                 |
+| `FLU_TAIWAN_CASES_ILI_VISITS_PCT_WEEKLY_NHI` | NIDSS                     | Taiwan - Weekly rates of how many outpatients are for ILI diseases, by region             |
+| `FLU_TAIWAN_TESTS_WEEKLY_LARS`               | NIDSS                     | Taiwan - Weekly Flu subtype counts                                                        |
+| `FLU_UK_ARI_WEEKLY_NHS`                      | UK Health Security Agency | UK - Weekly ARI diagnoses and outbreaks broken down by social context                     |
+| `FLU_UK_HOSP_BY_AGEGRP_WEEKLY_NHS`           | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by age                                 |
+| `FLU_UK_HOSP_BY_REGION_WEEKLY_NHS`           | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by region                              |
+| `FLU_UK_HOSP_BY_TYPE_WEEKLY_NHS`             | UK Health Security Agency | UK - Weekly Flu hospitalization rates, broken down by subtype                             |
+| `FLU_UK_HOSP_OVERALL_WEEKLY_NHS`             | UK Health Security Agency | UK - Weekly Flu hospitalization rates                                                     |
+| `FLU_UK_TESTS_WEEKLY_NHS_DATAMARTFLU`        | UK Health Security Agency | UK - Weekly lab-confirmed Flu cases, broken down by subtype                               |
 
 ## Additional Information
 
