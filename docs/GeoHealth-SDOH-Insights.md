@@ -47,7 +47,7 @@ With this product we want to meet your data points where they are:
 ## Data Exchanges
 
 This dataset is currently refreshed and available at the following locations:
-- [Snowflake Marketplace](Link incoming)
+- [Snowflake Marketplace](https://app.snowflake.com/gccctfd/hpb10161/#/data/SNOWFLAKE_DATA_MARKETPLACE/listing/GZTSZUXGHPT/preview)
 
 ## About Rearc
 
