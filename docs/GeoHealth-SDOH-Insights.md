@@ -2,7 +2,7 @@
 
 ## General Information
 
-Rearc's GeoHealth Insights product provides comprehensive data on Social Determinants of Health (SDoH), leveraging diverse datasets from various sources. Sourced from authoritative providers such as AHRQ, the CDC, USDOT National Address Database, and dozens more, it offers valuable insights into the factors influencing community health. The product is particularly beneficial for optimizing financial risk management, monitoring population health, and enhancing community well-being through precise assessment of individual and community health risks.
+Rearc's GeoHealth Insights product provides comprehensive data on Social Determinants of Health (SDoH), leveraging diverse datasets from various sources. Compiled from authoritative providers such as AHRQ, the CDC, USDOT National Address Database, and dozens more, it offers valuable insights into the factors influencing community health. The product is particularly beneficial for optimizing financial risk management, monitoring population health, and enhancing community well-being through precise assessment of individual and community health risks.
 
 ## Key Attributes
 
