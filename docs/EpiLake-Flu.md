@@ -1,28 +1,20 @@
-# EpiLake: Influenza Global Surveillance
+# EpiLake Flu: Advanced Influenza Global Surveillance
 
 ## General Information
 
-EpiLake Flu provides comprehensive data on the spread of influenza worldwide. It is sourced from various authorities, including both nation-specific and international agencies. This atlas transforms all of this data, adds additional predictive features, and puts it all in one place to make it ready for business use.
+EpiLake Flu stands as a cutting-edge solution for understanding the global landscape of influenza. Drawing from a diverse array of authorities, both national and international, this platform elevates the raw data to a refined and enriched level, tailored for strategic business applications.
 
-While there are some rollup sources of influenza data, such as from the WHO or the CDC, many countries and states publish their data in their own format via their own mechanisms through their own health agencies. This region-specific data is often more well-defined and sometimes contains finer details than what is readily available globally. On top of the broad, global data sources, this atlas provides a growing variety of those specific data sources to offer the most comprehensive influenza dataset on the market.
+While traditional sources like the WHO or the CDC provide consolidated influenza data, individual countries and states often present region-specific nuances in their own formats through distinct health agencies. EpiLake Flu not only amalgamates these diverse global sources but goes a step further, transforming, enriching, and predicting to offer a sophisticated and business-ready dataset.
 
-While our other Influenza product, Influenza Global Data Atlas, seeks to keep all data in its original format, as close to the published version as possible, EpiLake Flu is a further transformed, enriched dataset. Non-tabular sources are converted to tables, data is translated to English, metrics are aggregated across various dimensions and sources, additional sources are brought in to enrich the Influenza data, and we've even created a suite of prediction metrics to top it all off.
+Unlike our Influenza Global Data Atlas, which meticulously preserves data in its original format, EpiLake Flu is a sophisticated transformation. Non-tabular sources are converted into structured tables, data undergoes translation into English, metrics are intelligently aggregated across dimensions and sources, and supplementary data sources are integrated to enhance the influenza dataset. Additionally, a suite of predictive features, fueled by robust forecasts and Social Determinants of Health (SDoH) data, enhances the offering.
 
 ## Key Attributes
 
-While different countries and international agencies provide different data, the following kinds of data are generally
-available:
+EpiLake Flu includes a host of key attributes:
 
-- **Influenza Case and Test Counts**: Numbers of positive tests for Flu, numbers of total tests, numbers of diagnoses of
-  flu, etc.
-- **Influenza Subtypes**: Counts of laboratory confirmed cases of Flu subtypes, such as A (H3N2), B (Yamagata), and
-  more.
-- **Other Influenza-Like Illness (ILI) Data**: Some datasets include positive tests results for Adenovirus, RSV, Covid,
-  Rhinovirus, HPIV, and other common respiratory viruses.
-- **Hospitalization and Severity**: Some datasets include hospitalization counts for ILI or confirmed Flu cases.
-- **Regional and Demographic Breakdowns**: Some datasets include fine-grained regional, age, gender, or other
-  demographic breakdowns.
-- **Influenza Metric Predictions**: Using dozens of the most reliable forecasts available in addition to SDoH data, we include aggregated predictions of key time-series Influenza metrics - cases, hospitalizations, fatalities, etc.
+- **In-depth Influenza Metrics**: Precise global figures for positive flu tests, total tests conducted, diagnosed flu cases, hospitalizaitons, and more provide a comprehensive view of the influenza landscape.
+- **Influenza Metric Predictions**: Utilizing state-of-the-art forecasts and Social Determinants of Health (SDoH) data, EpiLake Flu goes beyond the present by offering aggregated predictions for key time-series influenza metrics.
+- **Integrated Analytics Capabilities**: EpiLake Flu seamlessly integrates with analytics platforms, empowering businesses to tailor the data for impactful visualizations and sophisticated time-series analysis. This integration ensures flexibility in modifying the data product to meet specific analytical needs.
 
 ## Additional Information
 
