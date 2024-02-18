@@ -1,0 +1,24 @@
+components:
+  - name: frontend
+    type: service
+    image: node:19
+    port: 3000
+    build:
+      steps:
+        - directory: /usr/src/app
+        - copy: frontend
+          destination: /usr/src/app/
+        - copy: docs/**
+          destination: /usr/src/app/src/
+        - directory: /usr/src/app/frontend
+        - run: npm install
+        - run: pwd
+        - run: ls -lah
+        - run: npm run build
+        - run: npm install -g serve
+    runtime:
+      command: "serve -s /usr/src/app/build"
+
+routes:
+  - target:
+      component: frontend

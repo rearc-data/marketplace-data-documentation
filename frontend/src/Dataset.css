@@ -1,0 +1,27 @@
+.datasetContainer {
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px auto;
+    background-color: blanchedalmond;
+}
+
+.datasetTitle {
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 4px;
+}
